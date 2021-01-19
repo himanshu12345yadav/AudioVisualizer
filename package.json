@@ -1,0 +1,18 @@
+{
+  "name": "audiovisualizer",
+  "version": "1.0.0",
+  "description": "Audio Visualizer made on the top of Audio Context Interface",
+  "main": "./build/index.js",
+  "scripts": {
+    "test": "node ./build/index.js"
+  },
+  "keywords": [
+    "Audio",
+    "Visualizer",
+    "Visualizer",
+    "Audio",
+    "Graph"
+  ],
+  "author": "Himanshu Yadav",
+  "license": "MIT"
+}
