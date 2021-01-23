@@ -2,6 +2,11 @@
 
 Its an Audio Visualizer / Grapher based on Web Audio Context Interface . It takes the audio Source and applied DFT to map Amplitude with respective sinusoid frequencies and then display them using the Canvas.
 
+<p align="center"><img src="https://img.shields.io/github/license/himanshu12345yadav/AudioVisualizer?color=%23297fc6&style=for-the-badge" /></p>
+
+<p align="center" ><img src="./public/Linear-Visualizer-Demo.gif" /></p>
+<p align="center"><img src="./public/Radial-Visualizer-Demo.gif" /></p>
+
 # Getting Started
 
 ```bash
